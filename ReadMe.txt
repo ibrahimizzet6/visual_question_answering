@@ -1,0 +1,1 @@
+datasete buradan ulaşabilirsiniz :  https://visualqa.org/download.html
